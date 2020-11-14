@@ -22,10 +22,11 @@ public class movement : MonoBehaviour
     {
         #region PLAYER_MOVEMENT
         change = Vector3.zero;
-		change.x=Input.GetAxisRaw("Horizontal");
-		change.y=Input.GetAxisRaw("Vertical");
+		change.x=Input.GetAxis("Horizontal");
+		change.y=Input.GetAxis("Vertical");
 		UpdateAnimationAndMove();
         #endregion
+ 
     }
 
     void UpdateAnimationAndMove()

@@ -1,0 +1,944 @@
+fileFormatVersion: 2
+guid: c82cf4b3d73ab9b49a7438bb6a248155
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4641857577471135281
+    second: miguelito_0
+  - first:
+      213: 6894016951658380848
+    second: miguelito_1
+  - first:
+      213: -6040012911394081721
+    second: miguelito_2
+  - first:
+      213: 3035383697624103064
+    second: miguelito_3
+  - first:
+      213: 6659836294926584050
+    second: miguelito_4
+  - first:
+      213: -1335953143360250905
+    second: miguelito_5
+  - first:
+      213: 917231326767871875
+    second: miguelito_6
+  - first:
+      213: 515527070801525982
+    second: miguelito_7
+  - first:
+      213: -3458090721169429952
+    second: miguelito_8
+  - first:
+      213: -5210024710359462781
+    second: miguelito_9
+  - first:
+      213: 1139583105065110967
+    second: miguelito_10
+  - first:
+      213: 600941894676812801
+    second: miguelito_11
+  - first:
+      213: -6464106512660364484
+    second: miguelito_12
+  - first:
+      213: 6314469287629919168
+    second: miguelito_13
+  - first:
+      213: -8675790937079490268
+    second: miguelito_14
+  - first:
+      213: 5030562892340963226
+    second: miguelito_15
+  - first:
+      213: 8361059210798552474
+    second: miguelito_16
+  - first:
+      213: 7143032725369848238
+    second: miguelito_17
+  - first:
+      213: -2510544226506605742
+    second: miguelito_18
+  - first:
+      213: 8409332136550103910
+    second: miguelito_19
+  - first:
+      213: -9031669508953870328
+    second: miguelito_20
+  - first:
+      213: -3312755599316121469
+    second: miguelito_21
+  - first:
+      213: 3581997940093644302
+    second: miguelito_22
+  - first:
+      213: 5968885626564976445
+    second: miguelito_23
+  - first:
+      213: 6069967900491581196
+    second: miguelito_24
+  - first:
+      213: -897773025318703351
+    second: miguelito_25
+  - first:
+      213: -7040549200167508022
+    second: miguelito_26
+  - first:
+      213: 4257905298954294445
+    second: miguelito_27
+  - first:
+      213: -5928153364031631803
+    second: miguelito_28
+  - first:
+      213: 4232299173547243276
+    second: miguelito_29
+  - first:
+      213: 77760961673492760
+    second: miguelito_30
+  - first:
+      213: 760059380248969797
+    second: miguelito_31
+  - first:
+      213: 5648208076947617651
+    second: miguelito_32
+  - first:
+      213: -3647308905160080897
+    second: miguelito_33
+  - first:
+      213: 5743162576888799107
+    second: miguelito_34
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: miguelito_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 687
+        width: 181
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1b0ec702fc49fb0800000000000000
+      internalID: -4641857577471135281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miguelito_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 702
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e7e1734e77caf50800000000000000
+      internalID: 6894016951658380848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miguelito_2
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 687
+        width: 63
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744359922409d2ca0800000000000000
+      internalID: -6040012911394081721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miguelito_3
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 690
+        width: 72
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89875ed0469df1a20800000000000000
+      internalID: 3035383697624103064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miguelito_4
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 684
+        width: 102
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f84a5d23dd7c6c50800000000000000
+      internalID: 6659836294926584050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miguelito_5
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 660
+        width: 71
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb127db1bdb57de0800000000000000
+      internalID: -1335953143360250905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miguelito_6
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 692
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387fbd03809aabc00800000000000000
+      internalID: 917231326767871875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miguelito_7
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 653
+        width: 73
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcf837b325872700800000000000000
+      internalID: 515527070801525982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miguelito_8
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 697
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a2f939fc46200d0800000000000000
+      internalID: -3458090721169429952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miguelito_9
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 481
+        width: 88
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c440c312642b7b0800000000000000
+      internalID: -5210024710359462781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miguelito_10
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 579
+        width: 71
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd4179dbcc90df00800000000000000
+      internalID: 1139583105065110967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miguelito_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 579
+        width: 86
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1049cd22879f65800800000000000000
+      internalID: 600941894676812801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miguelito_12
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 486
+        width: 92
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3307920061ea46a0800000000000000
+      internalID: -6464106512660364484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miguelito_13
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 579
+        width: 100
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c39b429c5081a750800000000000000
+      internalID: 6314469287629919168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miguelito_14
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 487
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429d2d9eb16699780800000000000000
+      internalID: -8675790937079490268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miguelito_15
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 570
+        width: 95
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97ae3a2c4620d540800000000000000
+      internalID: 5030562892340963226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miguelito_16
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 493
+        width: 102
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95d7adad03780470800000000000000
+      internalID: 8361059210798552474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miguelito_17
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 565
+        width: 104
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea109a61b66212360800000000000000
+      internalID: 7143032725369848238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miguelito_18
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 491
+        width: 95
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b7a22d351c82dd0800000000000000
+      internalID: -2510544226506605742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miguelito_19
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 394
+        width: 56
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b785d0603f3b470800000000000000
+      internalID: 8409332136550103910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miguelito_20
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 409
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800f316fe6019a280800000000000000
+      internalID: -9031669508953870328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miguelito_21
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 397
+        width: 63
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388831b855ab602d0800000000000000
+      internalID: -3312755599316121469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miguelito_22
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 395
+        width: 76
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e6675f520d5b130800000000000000
+      internalID: 3581997940093644302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miguelito_23
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 394
+        width: 110
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f17545addb5d250800000000000000
+      internalID: 5968885626564976445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miguelito_24
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 389
+        width: 116
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0703da35abdc3450800000000000000
+      internalID: 6069967900491581196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miguelito_25
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 68
+        width: 75
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f63f8a0387a83f0800000000000000
+      internalID: -897773025318703351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miguelito_26
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 271
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7ea5c0ec1fa4e90800000000000000
+      internalID: -7040549200167508022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miguelito_27
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 257
+        width: 63
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da49c6f5f4e171b30800000000000000
+      internalID: 4257905298954294445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miguelito_28
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 257
+        width: 71
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e8bd29ce7fabda0800000000000000
+      internalID: -5928153364031631803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miguelito_29
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 244
+        width: 100
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c077676bca52cba30800000000000000
+      internalID: 4232299173547243276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miguelito_30
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 237
+        width: 71
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819f0f1ce23441100800000000000000
+      internalID: 77760961673492760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miguelito_31
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 240
+        width: 71
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54281f7baf54c8a00800000000000000
+      internalID: 760059380248969797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miguelito_32
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 263
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37774fb0257726e40800000000000000
+      internalID: 5648208076947617651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miguelito_33
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 254
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff180d100e7226dc0800000000000000
+      internalID: -3647308905160080897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miguelito_34
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 256
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f16c26fefc3bf40800000000000000
+      internalID: 5743162576888799107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
