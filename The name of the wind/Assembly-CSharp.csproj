@@ -244,13 +244,13 @@
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.14f1/Editor/Data/Managed/UnityEditor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.Editor">
- <HintPath>D:/jocuri/Unity Hub/jocuri/The name of the wind/Library/PackageCache/com.unity.analytics@3.3.5/Unity.Analytics.Editor.dll</HintPath>
+ <HintPath>C:/Users/Ionut/Desktop/joku/joku/The name of the wind/Library/PackageCache/com.unity.analytics@3.3.5/Unity.Analytics.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.Tracker">
- <HintPath>D:/jocuri/Unity Hub/jocuri/The name of the wind/Library/PackageCache/com.unity.analytics@3.3.5/Unity.Analytics.Tracker.dll</HintPath>
+ <HintPath>C:/Users/Ionut/Desktop/joku/joku/The name of the wind/Library/PackageCache/com.unity.analytics@3.3.5/Unity.Analytics.Tracker.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.StandardEvents">
- <HintPath>D:/jocuri/Unity Hub/jocuri/The name of the wind/Library/PackageCache/com.unity.analytics@3.3.5/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
+ <HintPath>C:/Users/Ionut/Desktop/joku/joku/The name of the wind/Library/PackageCache/com.unity.analytics@3.3.5/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="netstandard">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.14f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
@@ -598,76 +598,76 @@
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.14f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Serialization.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>D:/jocuri/Unity Hub/jocuri/The name of the wind/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>C:/Users/Ionut/Desktop/joku/joku/The name of the wind/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Monetization">
- <HintPath>D:/jocuri/Unity Hub/jocuri/The name of the wind/Library/ScriptAssemblies/UnityEngine.Monetization.dll</HintPath>
+ <HintPath>C:/Users/Ionut/Desktop/joku/joku/The name of the wind/Library/ScriptAssemblies/UnityEngine.Monetization.dll</HintPath>
  </Reference>
  <Reference Include="com.unity.multiplayer-hlapi.Editor">
- <HintPath>D:/jocuri/Unity Hub/jocuri/The name of the wind/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Editor.dll</HintPath>
+ <HintPath>C:/Users/Ionut/Desktop/joku/joku/The name of the wind/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>D:/jocuri/Unity Hub/jocuri/The name of the wind/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ <HintPath>C:/Users/Ionut/Desktop/joku/joku/The name of the wind/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Advertisements">
- <HintPath>D:/jocuri/Unity Hub/jocuri/The name of the wind/Library/ScriptAssemblies/UnityEngine.Advertisements.dll</HintPath>
+ <HintPath>C:/Users/Ionut/Desktop/joku/joku/The name of the wind/Library/ScriptAssemblies/UnityEngine.Advertisements.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Purchasing">
- <HintPath>D:/jocuri/Unity Hub/jocuri/The name of the wind/Library/ScriptAssemblies/UnityEngine.Purchasing.dll</HintPath>
+ <HintPath>C:/Users/Ionut/Desktop/joku/joku/The name of the wind/Library/ScriptAssemblies/UnityEngine.Purchasing.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Purchasing">
- <HintPath>D:/jocuri/Unity Hub/jocuri/The name of the wind/Library/ScriptAssemblies/UnityEditor.Purchasing.dll</HintPath>
+ <HintPath>C:/Users/Ionut/Desktop/joku/joku/The name of the wind/Library/ScriptAssemblies/UnityEditor.Purchasing.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>D:/jocuri/Unity Hub/jocuri/The name of the wind/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>C:/Users/Ionut/Desktop/joku/joku/The name of the wind/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>D:/jocuri/Unity Hub/jocuri/The name of the wind/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>C:/Users/Ionut/Desktop/joku/joku/The name of the wind/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>D:/jocuri/Unity Hub/jocuri/The name of the wind/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>C:/Users/Ionut/Desktop/joku/joku/The name of the wind/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>D:/jocuri/Unity Hub/jocuri/The name of the wind/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ <HintPath>C:/Users/Ionut/Desktop/joku/joku/The name of the wind/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
  <Reference Include="com.unity.multiplayer-weaver.Editor">
- <HintPath>D:/jocuri/Unity Hub/jocuri/The name of the wind/Library/ScriptAssemblies/com.unity.multiplayer-weaver.Editor.dll</HintPath>
+ <HintPath>C:/Users/Ionut/Desktop/joku/joku/The name of the wind/Library/ScriptAssemblies/com.unity.multiplayer-weaver.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.XR.LegacyInputHelpers">
- <HintPath>D:/jocuri/Unity Hub/jocuri/The name of the wind/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
+ <HintPath>C:/Users/Ionut/Desktop/joku/joku/The name of the wind/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
- <HintPath>D:/jocuri/Unity Hub/jocuri/The name of the wind/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>C:/Users/Ionut/Desktop/joku/joku/The name of the wind/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Sprite.Editor">
- <HintPath>D:/jocuri/Unity Hub/jocuri/The name of the wind/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+ <HintPath>C:/Users/Ionut/Desktop/joku/joku/The name of the wind/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Tilemap.Editor">
- <HintPath>D:/jocuri/Unity Hub/jocuri/The name of the wind/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+ <HintPath>C:/Users/Ionut/Desktop/joku/joku/The name of the wind/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.SpatialTracking">
- <HintPath>D:/jocuri/Unity Hub/jocuri/The name of the wind/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
+ <HintPath>C:/Users/Ionut/Desktop/joku/joku/The name of the wind/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.SpatialTracking">
- <HintPath>D:/jocuri/Unity Hub/jocuri/The name of the wind/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
+ <HintPath>C:/Users/Ionut/Desktop/joku/joku/The name of the wind/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Advertisements.Editor">
- <HintPath>D:/jocuri/Unity Hub/jocuri/The name of the wind/Library/ScriptAssemblies/UnityEngine.Advertisements.Editor.dll</HintPath>
+ <HintPath>C:/Users/Ionut/Desktop/joku/joku/The name of the wind/Library/ScriptAssemblies/UnityEngine.Advertisements.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>D:/jocuri/Unity Hub/jocuri/The name of the wind/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>C:/Users/Ionut/Desktop/joku/joku/The name of the wind/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.DataPrivacy">
- <HintPath>D:/jocuri/Unity Hub/jocuri/The name of the wind/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+ <HintPath>C:/Users/Ionut/Desktop/joku/joku/The name of the wind/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.XR.LegacyInputHelpers">
- <HintPath>D:/jocuri/Unity Hub/jocuri/The name of the wind/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
+ <HintPath>C:/Users/Ionut/Desktop/joku/joku/The name of the wind/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>D:/jocuri/Unity Hub/jocuri/The name of the wind/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>C:/Users/Ionut/Desktop/joku/joku/The name of the wind/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="com.unity.multiplayer-hlapi.Runtime">
- <HintPath>D:/jocuri/Unity Hub/jocuri/The name of the wind/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Runtime.dll</HintPath>
+ <HintPath>C:/Users/Ionut/Desktop/joku/joku/The name of the wind/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Runtime.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
